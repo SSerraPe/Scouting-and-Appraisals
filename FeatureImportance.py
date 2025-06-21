@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 26 23:03:04 2024
 
-@author: Bluetab
+@author: Sebastian Serra
 """
 
 import pandas as pd
